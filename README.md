@@ -8,16 +8,16 @@ This repository contains datasets related to our paper [PRDECT-ID: Indonesian pr
  - To the best of our knowledge, the [PRDECT-ID dataset](https://github.com/rhiosutoyo/PRDECT-ID-Indonesian-Product-Reviews-Dataset/blob/main/Dataset/PRDECT-ID%20Dataset.csv) is the first Indonesian product reviews dataset annotated with emotions.
  - The PRDECT-ID dataset contains 5400 product reviews, spread over 29 different product categories and ready to use for an emotions classification task.
  - The annotation process follows emotions annotation criteria created by an expert in clinical psychology.
- - The PRDECT-ID dataset offers additional attributes from the product reviews for other text classification tasks. For instance, sentiment classification by using the “Sentiment” data.
+ - The PRDECT-ID dataset offers additional attributes from the product reviews for other text classification tasks, such as sentiment classification using the “Sentiment” data.
 
 ## Data Annotation
 
  - Each product review is annotated with a single emotion with [Shaver’s emotions model](https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-839X.00086).
- - The annotator label each product review based on the content of the review from the customers.
+ - The annotator labels each product review based on the customers' review content.
  - The annotation process follows the emotions annotation criteria created by lecturers and experts in clinical psychology.
 
 ## List of Attribute
-Although this work focuses on product reviews, other details related to the product review are captured, such as Price, Number Sold, and Total Review. The list of attribute is shown in Table below.
+Although this work focuses on product reviews, other details related to the product review are captured, such as Price, Number Sold, and Total Review. The list of attributes is shown in the Table below.
 
 |Attribute| Description |
 |--|--|
