@@ -55,3 +55,6 @@ keywords = {Natural language processing, Text processing, Text mining, Emotions 
 abstract = {Recognizing emotions is vital in communication. Emotions convey additional meanings to the communication process. Nowadays, people can communicate their emotions on many platforms; one is the product review. Product reviews in the online platform are an important element that affects customers’ buying decisions. Hence, it is essential to recognize emotions from the product reviews. Emotions recognition from the product reviews can be done automatically using a machine or deep learning algorithm. Dataset can be considered as the fuel to model the recognizer. However, only a limited dataset exists in recognizing emotions from the product reviews, particularly in a local language. This research contributes to the dataset collection of 5400 product reviews in Indonesian. It was carefully curated from various (29) product categories, annotated with five emotions, and verified by an expert in clinical psychology. The dataset supports an innovative process to build automatic emotion classification on product reviews.}
 }
 ```
+
+## Poster
+![alt text](https://github.com/rhiosutoyo/PRDECT-ID-Indonesian-Product-Reviews-Dataset/blob/main/Assets/PRDECT-ID_Poster.png?raw=true)
