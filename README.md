@@ -3,6 +3,11 @@
 
 This repository contains datasets related to our paper [PRDECT-ID: Indonesian product reviews dataset for emotions classification tasks](https://doi.org/10.1016/j.dib.2022.108554). This dataset is also available on the [Mendeley Data website](https://data.mendeley.com/datasets/574v66hf2v/1).
 
+PRDECT-ID has been utilized and implemented in these papers:
+1. [A Comparison of BiLSTM, BERT, and Ensemble Method for Emotion Recognition on Indonesian Product Reviews](https://www.sciencedirect.com/science/article/pii/S1877050924030746)
+2. [Modeling Emotions Recognition on Indonesian Product Review by Combining BERT, CNN, and LSTM Architecture Authors](http://www.ijicic.org/ijicic-200318.pdf)
+3. [Emotion Recognition Model using Product Review from Indonesia Marketplace](https://ieeexplore.ieee.org/abstract/document/10249811)
+
 ## Value of the Data
 
  - To the best of our knowledge, the [PRDECT-ID dataset](https://github.com/rhiosutoyo/PRDECT-ID-Indonesian-Product-Reviews-Dataset/blob/main/Dataset/PRDECT-ID%20Dataset.csv) is the first Indonesian product reviews dataset annotated with emotions.
